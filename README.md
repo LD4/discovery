@@ -1,6 +1,4 @@
----
-layout: default
----
+## LD4 Discovery Affinity Group
 
 Discussion of linked-data discovery in libraries and archives.
 
