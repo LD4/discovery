@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Discussion of linked-data discovery in libraries and archives.
 
 ## Rationale
