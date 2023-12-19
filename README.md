@@ -1,5 +1,6 @@
+# LD4 Discovery Affinity Group
 
-# Rationale
+## Rationale
 
 There is a pressing need to provide concrete demonstrations of the benefits of linked data in order to help motivate the transition of library catalogs from MARC.  Within [LD4P3](https://wiki.lyrasis.org/pages/viewpage.action?pageId=187176106), work to enhance the discovery of library resources is the focus of WP3: Discovery. Within [LD4P2](https://wiki.lyrasis.org/pages/viewpage.action?pageId=104568167), similar work was the focus of [WP4: Discovery](https://wiki.lyrasis.org/pages/viewpage.action?pageId=101783940). The partners had committed to working with the [Blacklight](http://projectblacklight.org/) framework to demonstrate enhanced discovery features such as:
 
