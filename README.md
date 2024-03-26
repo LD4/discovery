@@ -26,11 +26,15 @@ In all of these areas there is opportunity for community input on and discussion
     * Originally chartered and chaired by Tom Cramer and Simeon Warner
   * Bi-weekly calls (see below):
     * Announce on #general and #discovery
-    * Public notes in Google Drive: https://drive.google.com/drive/folders/1Un3ALFr1zKROYr9b6h5VGX4Xikz6SqQC
+    * Public notes in Google Drive: [meeting minutes](https://drive.google.com/drive/folders/1Un3ALFr1zKROYr9b6h5VGX4Xikz6SqQC)
     * Topics seeded in advance, with a few key speakers drawn from community, then discussion
-  * Dedicated, open Slack channel in LD4 – `#discovery`
+  * Dedicated, open Slack channel in LD4 – [`#discovery`](https://ld4.slack.com/archives/CFWB3FX9T)
   * Dedicated, open Google Group – [ld4-discovery](https://groups.google.com/forum/#!forum/ld4-discovery)
   * Share brief updates on all hands calls
   * Consider face-to-face sessions at the LD4 conference each Spring
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
+
+## Select Outputs
+  * Spreadsheet of Discovery Platforms Using Linked Data: [spreadsheet](https://docs.google.com/spreadsheets/d/1D1UDqys-ajFG2K_xlolLPOSGKFQoU8DO_u5D7BNCslQ/edit#gid=0)
+  * LD4 Knowledge Panel Recipe: [document](https://zenodo.org/doi/10.5281/zenodo.10823047)
